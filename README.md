@@ -1,7 +1,7 @@
 OroCoin integration/staging tree
 ================================
 
-http://www.orocoin.or
+http://www.orocoin.co
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 OroCoin Developers
