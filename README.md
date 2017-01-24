@@ -28,7 +28,7 @@ P2P port : 10231
 For more information, as well as an immediately useable, binary version of the OroCoin client sofware, see http://www.orocoin.co.
 
 License
---------
+-------
 
 OroCoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
