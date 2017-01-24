@@ -10,19 +10,25 @@ What is OroCoin?
 ----------------
 
 OroCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ 
+OroCoin Specs:
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
-
-For more information, as well as an immediately useable, binary version of
-the OroCoin client sofware, see http://www.orocoin.org.
+Coin Algorithm Script: Scrypt (POW)
+Coin Abbreviation : ORO
+Maximum Coin Supply : 23,529,412
+Block halving : 250000 blocks
+Coin base maturity : 20 blocks
+PoW block reward : 40 ORO
+Coinbase maturity : 20 blocks
+Target spacing : 5 minutes
+Transaction confirmations : 5 blocks
+RPC port : 10232
+P2P port : 10231
+ 
+For more information, as well as an immediately useable, binary version of the OroCoin client sofware, see http://www.orocoin.co.
 
 License
--------
+--------
 
 OroCoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
